@@ -4,7 +4,7 @@
  
  Edge Impulse:[Edge Impulse ](https://studio.edgeimpulse.com/studio/655603/impulse/1/learning/keras/4)
  
- Git Hub：[Git Hub ](https://github.com/Dai-Qiqing/CASA0018))
+ Git Hub：[Git Hub ](https://github.com/Dai-Qiqing/CASA0018)
  
  ## Introduction
  The inspiration for this project comes from the overall health status of students in CE lab during the flu season. I found that whenever the flu season comes or when the air quality is poor, CE students often experience frequent coughing and illness. However, ordinary people find it difficult to notice at the beginning that coughing is an abnormal signal that triggers illness, and often overlook this phenomenon. Therefore, the Cough System project aims to combine embedded AI and deep learning to establish a cough monitoring system to assist students in providing feedback on abnormal bodily signals.
