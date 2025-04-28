@@ -26,7 +26,7 @@ Firstly,  it   is   necessary   to  filter  the  collected  data,   listen  to  
  
 
  <p align="center">
-  <img src="./images/1.png" width="400"/>
+  <img src="../Report/images/1.png" width="400"/>
 </p>
 
 <p align="center">
